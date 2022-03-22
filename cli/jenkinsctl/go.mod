@@ -1,4 +1,4 @@
-module github.com/dougsland/gojenkins/cli/jenkinsctl
+module github.com/chianoceanwhale/gojenkins/cli/jenkinsctl
 
 go 1.16
 
